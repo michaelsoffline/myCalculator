@@ -2,7 +2,7 @@
 
 ## Description
 
-A basic four-function calculator app which can perform simple arithmetic operations.
+A basic four-function calculator app that can perform simple arithmetic operations.
 
 ## Motivation
 
@@ -18,3 +18,6 @@ This project was built with the following technologies:
 - Android Studio
 
 ## How It Works
+
+![myCalculatorDemo](https://github.com/michaelsoffline/myCalculator/assets/73570343/36f05238-5fb6-4bda-9da2-9ba0d9537c46)
+
